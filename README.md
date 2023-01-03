@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Svelte, Neovim, Nullstack, pnpm.**
 
-- 💬 Ask me about **Anything, if i don't know, we can learn together**
+- 💬 Ask me about **Anything, if I don't know, we can learn it together**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
