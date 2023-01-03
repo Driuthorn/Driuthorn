@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [finance-tracker](https://github.com/Driuthorn/finance-tracker)
 
-- 🌱 I’m currently learning **Svelte, Neovim, Nullstack, pnmp.**
+- 🌱 I’m currently learning **Svelte, Neovim, Nullstack, pnpm.**
 
 - 💬 Ask me about **Anything, if i don't know, we can learn together**
 
